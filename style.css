@@ -124,7 +124,7 @@ header ul li a:hover {
 .left button {
   border: none;
   outline: none;
-  background-color: #1f67db;
+  background-color: #f30808;
   width: 150px;
   border-radius: 15px;
   padding: 15px 20px;
@@ -145,7 +145,7 @@ header ul li a:hover {
 }
 
 .left button:hover a {
-  color: #1f67db
+  color: #ff5926
 }
 
 .bgtitle {
@@ -273,15 +273,15 @@ header ul li a:hover {
 }
 
 .html {
-  color: #ED6915;
+  color:#9134fc;
 }
 
 .css {
-  color: #4269F5;
+  color:#e70000 ;
 }
 
 .js {
-  color: #D5D649;
+  color:blue ;
 }
 
 .card:hover ion-icon {
@@ -317,6 +317,7 @@ header ul li a:hover {
   display: flex;
   width: 100%;
   margin-top: 40px;
+  border-radius:16px;
 }
 
 .skills {
@@ -606,7 +607,7 @@ header ul li a:hover {
     outline: none;
     background-color: #1f67db;
     width: 130px;
-    #42445A border-radius: 15px;
+    border-radius: 15px;
     padding: 15px 20px;
     margin-top: 20px;
     cursor: pointer;
@@ -769,4 +770,13 @@ header ul li a:hover {
     border-radius: 50%;
   }
 
+}
+.logo-whatsapp{
+  margin-left:9px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: rgb(0, 255, 94);
+}
+.location{
+  color:#b7fccc
 }
